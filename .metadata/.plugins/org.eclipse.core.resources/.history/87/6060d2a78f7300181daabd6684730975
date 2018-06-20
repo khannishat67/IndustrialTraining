@@ -1,0 +1,10 @@
+
+public class HelloWorld {
+	public static void main(String args[]) {
+		System.out.println("Hello World!");
+		String s = "Heglo";
+		String s2 = "Hallo";
+		System.out.println(s.compareTo(s2));
+	
+	}
+}
